@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">For my Jacqueline</string>
+    <string name="topText">I love you ever so much my gorgeous Jacqueline!</string>
+    <string name="sendHint">Send Message...</string>
+    <string name="sendButton">Send</string>
+    <string name="imageDescription">\'I Love You\' image</string>
+    <string name="name">Name</string>
+</resources>
